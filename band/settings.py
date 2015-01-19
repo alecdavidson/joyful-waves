@@ -1,5 +1,5 @@
 """
-Django settings for helloworld project.
+Django settings for band project.
 
 For more information on this file, see
 https://docs.djangoproject.com/en/1.7/topics/settings/
@@ -17,14 +17,14 @@ BASE_DIR = os.path.dirname(os.path.dirname(__file__))
 # See https://docs.djangoproject.com/en/1.7/howto/deployment/checklist/
 
 # SECURITY WARNING: keep the secret key used in production secret!
-SECRET_KEY = 'y((p+s1am6@!1q%h8j9v2pg&)g-mfs&i+^g^s54=86ofsggzv@'
+SECRET_KEY = '_5xa1gl1_+xbbl-mw55lzzfrsx7t^h)oi&rr#g8u7q@*n-r*+&'
 
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
 TEMPLATE_DEBUG = True
 
-TEMPLATE_DIRS = [os.path.join(BASE_DIR, "helloworld/templates")]
+TEMPLATE_DIRS = [os.path.join(BASE_DIR, 'band/templates')]
 
 ALLOWED_HOSTS = []
 
@@ -50,9 +50,9 @@ MIDDLEWARE_CLASSES = (
     'django.middleware.clickjacking.XFrameOptionsMiddleware',
 )
 
-ROOT_URLCONF = 'helloworld.urls'
+ROOT_URLCONF = 'band.urls'
 
-WSGI_APPLICATION = 'helloworld.wsgi.application'
+WSGI_APPLICATION = 'band.wsgi.application'
 
 
 # Database
