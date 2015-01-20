@@ -8,3 +8,6 @@ def bio(request):
 
 def disc(request):
 	return render(request, 'disc.html', {})
+
+def tour(request):
+	return render(request, 'tour.html', {})

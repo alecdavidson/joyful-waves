@@ -5,7 +5,8 @@ urlpatterns = patterns('',
 
 	url(r'^$', 'band.views.home', name='home'),
 	url(r'^bio/', 'band.views.bio', name='bio'),
-        url(r'^disc/', 'band.views.disc', name='disc'),
+    url(r'^disc/', 'band.views.disc', name='disc'),
+    url(r'^tour/', 'band.views.tour', name='tour'),
     # Examples:
     # url(r'^$', 'helloworld.views.home', name='home'),
     # url(r'^blog/', include('blog.urls')),
