@@ -4,7 +4,6 @@
 <img src="{% static "head.jpg" %}">
 
 .jumbotron h1 {
-
 	color: #0099FF;
 	font-style: italic;
 	font-family: "Trebuchet MS", Helvetica;
@@ -19,8 +18,8 @@
 }
 
 .jumbotron {
-    margin-left: 70px;
-    margin-right: 70px;
+    margin-left: 60px;
+    margin-right: 60px;
 	background-image: url("head.jpg");
 	background-repeat: no-repeat;
 
@@ -59,5 +58,5 @@
 }
 
 .bs-docs-sidebar .nav>.active>a {
-    color: #001b7c;
+    color: #0099ff;
 }
