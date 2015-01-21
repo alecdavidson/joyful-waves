@@ -1,5 +1,35 @@
 /* Start http://www.cursors-4u.com */ body, a:hover {cursor: url(http://cur.cursors-4u.net/nature/nat-7/nat642.cur), progress;} /* End http://www.cursors-4u.com */
 
+{% load staticfiles %}
+
+{% load staticfiles %}
+<img src="{% static "head.jpg" %}">
+
+.jumbotron h1 {
+    color: #0099FF;
+    font-style: italic;
+    font-family: "Trebuchet MS", Helvetica;
+
+}
+
+.jumbotron header {
+
+    max-width: 100%;
+    height: auto;
+
+}
+
+.jumbotron {
+
+    background-image: url("head.JPG");
+
+    background-color: #CEBBF2;
+
+    background-size: 100%;
+
+    background-repeat: no-repeat;
+}
+
 body {
    background-attachment:fixed;
     padding-top:50px;
