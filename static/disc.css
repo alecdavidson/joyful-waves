@@ -1,7 +1,7 @@
 /* Start http://www.cursors-4u.com */ body, a:hover {cursor: url(http://cur.cursors-4u.net/nature/nat-7/nat642.cur), progress;} /* End http://www.cursors-4u.com */
 
 body {
-   
+   background-attachment:fixed;
     padding-top:50px;
 }
 .header span {
