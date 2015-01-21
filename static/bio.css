@@ -18,12 +18,14 @@
 }
 
 .jumbotron {
-    margin-left: 60px;
-    margin-right: 60px;
-	background-image: url("head.jpg");
-	background-repeat: no-repeat;
 
+    background-image: url("head.JPG");
 
+    background-color: #CEBBF2;
+
+    background-size: 100%;
+
+    background-repeat: no-repeat;
 }
 
 .body {
