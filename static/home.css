@@ -3,29 +3,25 @@
 <img src="{% static "head.jpg" %}">
 
 .jumbotron h1 {
+    color: #0099FF;
+    font-style: italic;
+    font-family: "Trebuchet MS", Helvetica;
 
-	color: #0099FF;
-	font-style: italic;
-	font-family: "Trebuchet MS", Helvetica;
-	
 }
 
 .jumbotron header {
 
-	max-width: 100%;
-	height: auto;
+    max-width: 100%;
+    height: auto;
 
 }
 
 .jumbotron {
 
-	background-image: url("head.JPG");
-
+    background-image: url("head.JPG");
     background-color: #CEBBF2;
-
     background-size: 100%;
-
-	background-repeat: no-repeat;
+    background-repeat: no-repeat;
 }
 
 .navbar-default {
