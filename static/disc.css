@@ -30,6 +30,9 @@
 body {
    background-attachment:fixed;
     padding-top:50px;
+   background: url('wave.png');
+   background-size:100%;
+   background-repeat: no-repeat;
 }
 .header span {
     transition: 500ms ease-in;
