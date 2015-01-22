@@ -1,6 +1,4 @@
 {% load staticfiles %}
-
-{% load staticfiles %}
 <img src="{% static "head.jpg" %}">
 
 .jumbotron h1 {
@@ -23,6 +21,43 @@
     background-color: #CEBBF2;
     background-size: 100%;
     background-repeat: no-repeat;
+}
+
+.navbar-default {
+    border-color: transparent;
+    #background: radial-gradient(closest-corner at 75% 40% , rgb(255, 255, 0), #rgb(117, 217, 173)) repeat scroll 0% 0% transparent;
+    background: radial-gradient(closest-corner at 75% 40%, #A375FF, #19D1FF);
+}
+
+.navbar-default .navbar-nav > li > a {
+    color: black;
+font-family: 'VT323';
+font-size: 1.3em;
+}
+
+.navbar-default .navbar-nav > .active > a, .navbar-default .navbar-nav > .active > a:focus, .navbar-default .navbar-nav > .active > a:hover {
+    color: yellow;
+    background-color: #75D9AD;
+}
+
+.navbar-default .navbar-brand {
+    font-family: 'Monofett';
+    font-size: 2.4em;
+    color: #DA70D6;
+}
+
+
+p {
+
+	font-family:'VT323';
+	font-size: 20px;
+}
+
+h4 {
+
+	font-family:'Monofett';
+	font-size: 30px;
+
 }
 
 .body {
