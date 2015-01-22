@@ -7,22 +7,14 @@ h1 {
     font-family:'Audiowide';
     font-style: italic;
     font-size: 59px;
-   # 75D9AD
-  # ACDE7C
-    #color:#19D1FF;
+   /* # 75D9AD
+    # ACDE7C
+    #color:#19D1FF; */
     color:#A375FF;
 }
 .header span:hover {
 
     color: #99FF66;
-}
-
-.container {
-    margin-left: 11%;
-}
-
-.lead {
-    margin-right: 11%;
 }
 
 .table {

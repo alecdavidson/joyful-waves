@@ -26,7 +26,6 @@
 
 .navbar-default, .dropdown-menu {
     border-color: transparent;
-    #background: radial-gradient(closest-corner at 75% 40% , rgb(255, 255, 0), #rgb(117, 217, 173)) repeat scroll 0% 0% transparent;
     background: radial-gradient(closest-corner at 75% 40%, #A375FF, #19D1FF);
 }
 
@@ -61,4 +60,13 @@ body {
 
 .table-hover > tbody > tr:hover {
     background-color: #FF69B4;
+}
+
+/* 
+ *This overrides the http://getbootstrap.com/examples/blog/blog.css
+ * The blog content still has margins, the navbar has default bootstrap margins
+ */
+@media (min-width: 1200px) {
+nav > .container {
+    width: 1170px;
 }
