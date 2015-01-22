@@ -28,11 +28,10 @@
 }
 
 body {
-   background-attachment:fixed;
-    padding-top:50px;
    background: url('wave.png');
-   background-size:100%;
-   background-repeat: no-repeat;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size:100%;
 }
 .header span {
     transition: 500ms ease-in;
