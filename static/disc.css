@@ -1,8 +1,6 @@
 /* Start http://www.cursors-4u.com */ body, a:hover {cursor: url(http://cur.cursors-4u.net/nature/nat-7/nat642.cur), progress;} /* End http://www.cursors-4u.com */
 
 {% load staticfiles %}
-
-{% load staticfiles %}
 <img src="{% static "head.jpg" %}">
 
 .jumbotron h1 {
