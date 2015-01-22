@@ -16,7 +16,6 @@
 }
 
 .jumbotron {
-
     background-image: url("head.JPG");
     background-color: #CEBBF2;
     background-size: 100%;
@@ -96,4 +95,8 @@ h4 {
 
 .container {
     margin-left: 11%;
+}
+
+.pushdown_automata {
+    margin-top: 50px;
 }
