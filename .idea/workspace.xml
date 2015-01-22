@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="843fbaf9-769a-4133-851f-3ee2eabab1da" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/band/templates/navbar.html" afterPath="$PROJECT_DIR$/band/templates/navbar.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/band/templates/tour.html" afterPath="$PROJECT_DIR$/band/templates/tour.html" />
     </list>
     <ignored path="joyful-waves.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -29,7 +28,7 @@
       <file leaf-file-name="tour.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/band/templates/tour.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-1.0240964" vertical-offset="595" max-vertical-offset="4964">
+            <state vertical-scroll-proportion="0.0" vertical-offset="595" max-vertical-offset="4964">
               <caret line="40" column="60" selection-start-line="40" selection-start-column="60" selection-end-line="40" selection-end-column="60" />
               <folding />
             </state>
@@ -39,8 +38,8 @@
       <file leaf-file-name="navbar.html" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/band/templates/navbar.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.31641287" vertical-offset="0" max-vertical-offset="731">
-              <caret line="11" column="41" selection-start-line="11" selection-start-column="41" selection-end-line="11" selection-end-column="41" />
+            <state vertical-scroll-proportion="0.20135364" vertical-offset="0" max-vertical-offset="731">
+              <caret line="7" column="41" selection-start-line="7" selection-start-column="41" selection-end-line="7" selection-end-column="41" />
               <folding />
             </state>
           </provider>
@@ -49,7 +48,7 @@
       <file leaf-file-name="bio.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/band/templates/bio.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-9.153846" vertical-offset="663" max-vertical-offset="5321">
+            <state vertical-scroll-proportion="0.0" vertical-offset="901" max-vertical-offset="2924">
               <caret line="53" column="51" selection-start-line="53" selection-start-column="51" selection-end-line="53" selection-end-column="51" />
               <folding />
             </state>
@@ -66,7 +65,7 @@
       <file leaf-file-name="home.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/band/templates/home.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-5.230769" vertical-offset="0" max-vertical-offset="2125">
+            <state vertical-scroll-proportion="0.0" vertical-offset="136" max-vertical-offset="2125">
               <caret line="8" column="51" selection-start-line="8" selection-start-column="51" selection-end-line="8" selection-end-column="51" />
               <folding />
             </state>
@@ -76,7 +75,7 @@
       <file leaf-file-name="disc.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/band/templates/disc.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-15.038462" vertical-offset="0" max-vertical-offset="697">
+            <state vertical-scroll-proportion="0.0" vertical-offset="391" max-vertical-offset="697">
               <caret line="23" column="75" selection-start-line="23" selection-start-column="75" selection-end-line="23" selection-end-column="75" />
               <folding />
             </state>
@@ -86,7 +85,7 @@
       <file leaf-file-name="disc.css" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/static/disc.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="739" max-vertical-offset="1343">
+            <state vertical-scroll-proportion="0.0" vertical-offset="238" max-vertical-offset="1530">
               <caret line="14" column="4" selection-start-line="14" selection-start-column="4" selection-end-line="14" selection-end-column="4" />
               <folding />
             </state>
@@ -154,7 +153,6 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -221,6 +219,7 @@
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -326,6 +325,9 @@
       <option name="PARAMETERS" value="" />
       <method />
     </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
     <configuration default="true" type="tests" factoryName="Unittests">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -347,9 +349,6 @@
       <option name="PUREUNITTEST" value="true" />
       <option name="PARAMS" value="" />
       <option name="USE_PARAM" value="false" />
-      <method />
-    </configuration>
-    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
       <method />
     </configuration>
     <configuration default="true" type="tests" factoryName="Doctests">
@@ -450,6 +449,59 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/band/templates/tour.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="4964">
+          <caret line="40" column="60" selection-start-line="40" selection-start-column="60" selection-end-line="40" selection-end-column="60" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/band/templates/navbar.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="187" max-vertical-offset="731">
+          <caret line="11" column="41" selection-start-line="11" selection-start-column="41" selection-end-line="11" selection-end-column="41" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/band/templates/bio.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="901" max-vertical-offset="2924">
+          <caret line="53" column="51" selection-start-line="53" selection-start-column="51" selection-end-line="53" selection-end-column="51" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/head.JPG">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/band/templates/home.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="136" max-vertical-offset="2125">
+          <caret line="8" column="51" selection-start-line="8" selection-start-column="51" selection-end-line="8" selection-end-column="51" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/band/templates/disc.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="391" max-vertical-offset="697">
+          <caret line="23" column="75" selection-start-line="23" selection-start-column="75" selection-end-line="23" selection-end-column="75" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/disc.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="238" max-vertical-offset="1530">
+          <caret line="14" column="4" selection-start-line="14" selection-start-column="4" selection-end-line="14" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/band/templates/tour.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="3094" max-vertical-offset="4046">
@@ -649,7 +701,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/band/templates/bio.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-9.153846" vertical-offset="663" max-vertical-offset="5321">
+        <state vertical-scroll-proportion="0.0" vertical-offset="901" max-vertical-offset="2924">
           <caret line="53" column="51" selection-start-line="53" selection-start-column="51" selection-end-line="53" selection-end-column="51" />
           <folding />
         </state>
@@ -667,7 +719,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/band/templates/home.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-5.230769" vertical-offset="0" max-vertical-offset="2125">
+        <state vertical-scroll-proportion="0.0" vertical-offset="136" max-vertical-offset="2125">
           <caret line="8" column="51" selection-start-line="8" selection-start-column="51" selection-end-line="8" selection-end-column="51" />
           <folding />
         </state>
@@ -677,13 +729,12 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="617">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/band/templates/tour.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-1.0240964" vertical-offset="595" max-vertical-offset="4964">
+        <state vertical-scroll-proportion="0.0" vertical-offset="595" max-vertical-offset="4964">
           <caret line="40" column="60" selection-start-line="40" selection-start-column="60" selection-end-line="40" selection-end-column="60" />
           <folding />
         </state>
@@ -691,7 +742,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/band/templates/disc.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-15.038462" vertical-offset="0" max-vertical-offset="697">
+        <state vertical-scroll-proportion="0.0" vertical-offset="391" max-vertical-offset="697">
           <caret line="23" column="75" selection-start-line="23" selection-start-column="75" selection-end-line="23" selection-end-column="75" />
           <folding />
         </state>
@@ -707,8 +758,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/band/templates/navbar.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.31641287" vertical-offset="0" max-vertical-offset="731">
-          <caret line="11" column="41" selection-start-line="11" selection-start-column="41" selection-end-line="11" selection-end-column="41" />
+        <state vertical-scroll-proportion="0.20135364" vertical-offset="0" max-vertical-offset="731">
+          <caret line="7" column="41" selection-start-line="7" selection-start-column="41" selection-end-line="7" selection-end-column="41" />
           <folding />
         </state>
       </provider>
