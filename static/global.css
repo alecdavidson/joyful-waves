@@ -1,43 +1,40 @@
-/* Start http://www.cursors-4u.com */ body, a:hover {cursor: url(http://cur.cursors-4u.net/nature/nat-7/nat642.cur), progress;} /* End http://www.cursors-4u.com */
-
 {% load staticfiles %}
 <img src="{% static "head.jpg" %}">
 
 .jumbotron h1 {
-    color: #0099FF;
-    font-style: italic;
-    font-family: "Trebuchet MS", Helvetica;
+	color: #0099FF;
+	font-style: italic;
+	font-family: "Trebuchet MS", Helvetica;
 
 }
 
 .jumbotron header {
 
-    max-width: 100%;
-    height: auto;
+	max-width: 100%;
+	height: auto;
 
 }
 
 .jumbotron {
-
     background-image: url("head.JPG");
     background-color: #CEBBF2;
     background-size: 100%;
     background-repeat: no-repeat;
 }
 
-.navbar-default {
+.navbar-default, .dropdown-menu {
     border-color: transparent;
     #background: radial-gradient(closest-corner at 75% 40% , rgb(255, 255, 0), #rgb(117, 217, 173)) repeat scroll 0% 0% transparent;
     background: radial-gradient(closest-corner at 75% 40%, #A375FF, #19D1FF);
 }
 
-.navbar-default .navbar-nav > li > a {
+.navbar-default .navbar-nav > li > a, .dropdown-menu  > li > a{
     color: black;
-font-family: 'VT323';
-font-size: 1.3em;
+    font-family: 'VT323';
+    font-size: 1.3em;
 }
 
-.navbar-default .navbar-nav > .active > a, .navbar-default .navbar-nav > .active > a:focus, .navbar-default .navbar-nav > .active > a:hover {
+.navbar-default .navbar-nav > .active > a, .navbar-default .navbar-nav > .active > a:focus, .navbar-default .navbar-nav > .active > a:hover, .dropdown-menu > .active > a, .dropdown-menu > .active > a:focus, .dropdown-menu > .active > a:hover {
     color: yellow;
     background-color: #75D9AD;
 }
@@ -48,15 +45,10 @@ font-size: 1.3em;
     color: #DA70D6;
 }
 
-.container { 
-    margin-left: 11%;
-}
-
 body {
    background: url('wave.png');
-   padding-top: 10px;
+   padding-top: 50px;
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-size:100%;
 }
-
