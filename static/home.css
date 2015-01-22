@@ -49,7 +49,7 @@ font-size: 1.3em;
 
 body {
    background: url('wave.png');
-   padding-top: 50px;
+   padding-top: 10px;
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-size:100%;
