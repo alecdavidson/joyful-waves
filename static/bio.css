@@ -90,13 +90,17 @@ h4 {
 }
 
 .bs-docs-sidebar .nav>.active>a {
-    color: #0099ff;
+    color: #ae0001;
 }
 
 .container {
     margin-left: 11%;
 }
 
-.pushdown_automata {
-    margin-top: 50px;
+body {
+   background: url('wave.png');
+   padding-top: 50px;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size:100%;
 }
