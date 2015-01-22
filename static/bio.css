@@ -93,3 +93,7 @@ h4 {
 .bs-docs-sidebar .nav>.active>a {
     color: #0099ff;
 }
+
+.container {
+    margin-left: 11%;
+}
