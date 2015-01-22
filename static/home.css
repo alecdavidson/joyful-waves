@@ -47,3 +47,10 @@ font-size: 1.3em;
     color: #DA70D6;
 }
 
+body {
+   background: url('wave.png');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size:100%;
+}
+
