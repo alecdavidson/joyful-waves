@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="843fbaf9-769a-4133-851f-3ee2eabab1da" name="Default" comment="">
-      <change type="DELETED" beforePath="C:\Users\Alec Davidson\Documents\GitHub\joyful-waves\band\templates\navbar2.html" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/disc.css" afterPath="$PROJECT_DIR$/static/disc.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="joyful-waves.iws" />
