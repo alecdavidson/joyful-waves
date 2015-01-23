@@ -47,8 +47,14 @@
 }
 
 body {
-   background: url('wave.png');
-   padding-top: 50px;
+    /* *** COPYRIGHT INFO ***
+     * This work, "wave.png", is a derivative work of "Underwater sculpture" by Michael Brashier,
+     * used under CC BY-NC 2.0
+     * Source: https://www.flickr.com/photos/michaelb1/5563304078/in/photolist-9tBotQ-5BfWBw-6iidTN-5fFqoj-5fB4iv-pBHpbB-655aaE-egPSS-aMRtQH-aPmWpK-a84Uax-g449fu-6nP7iH-aLCMSe-5pNSzZ-egPZw-8HqWiL-dobfhW-fghJ3k-aLCJpM-p6cKQB-4Z5sse-3nFuvS-9d5qoa-3jCtKU-cdeNj-aWkB22-afiiWf-aPmWRi-4hjKh3-nnk8g3-fcYStV-5fB8yt-mjxnRR-63p5Tq-5KM4c8-b92BiV-6g3RCJ-oxfMfX-gqa4Xm-eKURAi-g42TQ7-iLxVt-6jCBEX-61JBKo-b5pXhK-66GuNz-nTTpR-aWkDxH-aTiYoR
+     * License: https://creativecommons.org/licenses/by-nc/2.0/legalcode
+     */
+    background: url('wave.png');
+    /*padding-top: 50px;*/
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-size:100%;
