@@ -3,7 +3,7 @@
 .header span {
     transition: 500ms ease-in;
 }
-h1 {
+.container h1 {
     font-family:'Audiowide';
     font-style: italic;
     font-size: 59px;
