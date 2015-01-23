@@ -1,7 +1,5 @@
-/* Start http://www.cursors-4u.com */ body, a:hover {cursor: url(http://cur.cursors-4u.net/nature/nat-7/nat642.cur), progress;} /* End http://www.cursors-4u.com */
-
 .header span {
-    transition: 500ms ease-in;
+    transition: 500ms ease-in-out;
 }
 .container h1 {
     font-family:'Audiowide';
@@ -10,10 +8,13 @@
    /* # 75D9AD
     # ACDE7C
     #color:#19D1FF; */
-    color:#A375FF;
+    color: #A375FF;
 }
-.header span:hover {
 
+/*
+ * for Discography and Tour pages, the headers have hover color changes
+ */
+.header span:hover {
     color: #99FF66;
 }
 
